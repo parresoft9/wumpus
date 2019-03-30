@@ -1,0 +1,10 @@
+
+wumpus/\.classpath
+
+wumpus/\.project
+
+wumpus/\.settings/
+
+wumpus/target/classes/META-INF/
+
+*.class
