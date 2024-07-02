@@ -14,7 +14,7 @@ import parresoft9.wumpus.entities.PercepcionesCazador;
 import parresoft9.wumpus.entities.Position;
 import parresoft9.wumpus.services.Juego;
 
-public class Pruebas {
+public class PruebasTest{
 	private Juego wumpus; 
 	private Position posWumpus;
 	private Position posOro;
