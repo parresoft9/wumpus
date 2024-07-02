@@ -5,6 +5,7 @@ wumpus/\.project
 
 wumpus/\.settings/
 
-wumpus/target/classes/META-INF/
+**/target/
 
 *.class
+
